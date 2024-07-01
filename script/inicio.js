@@ -1,4 +1,5 @@
-const btnTeste = document.querySelector('#Teste');
-btnTeste.onclick = () => {
-    alert("funcionou");
+const btnTeste = document.querySelector("#teste");
+
+btnTeste.onclick = ()=>{
+    alert("Funcionou");
 }
